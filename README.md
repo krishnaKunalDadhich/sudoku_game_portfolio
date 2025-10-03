@@ -67,13 +67,14 @@ sudoku_game_portfolio/
 git clone https://github.com/your-username/sudoku_game_portfolio.git
 cd sudoku_game_portfolio
 
+---
 
 Run the game:
 
 python sudoku.py
 
 
-Follow on-screen instructions to:
+## Follow on-screen instructions to:
 
 Choose difficulty
 
@@ -81,7 +82,9 @@ Enter row, column, and number
 
 Save the completed board if desired
 
-🎯 Future Scope
+--- 
+
+## 🎯 Future Scope
 
 🔹 Add GUI using Tkinter or Pygame
 
@@ -91,11 +94,15 @@ Save the completed board if desired
 
 🔹 Extend with more puzzles stored in JSON or database
 
-📸 Screenshots
+---
+
+## 📸 Screenshots
 
 (Add console output screenshots here showing Easy, Medium, Hard boards, timer, and completed board)
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 
 Krishna Kunal Dadhich
 B.Tech CSE, Semester 2
@@ -105,3 +112,4 @@ B.Tech CSE, Semester 2
 📜 License
 
 This project is open-source and free to use for learning purposes.
+
